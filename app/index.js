@@ -1,3 +1,1 @@
-if (IS_DEVELOPMENT) {
-    console.log("Development mode");
-}
+console.log("Hello World");

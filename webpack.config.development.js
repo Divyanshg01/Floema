@@ -14,6 +14,11 @@ module.exports = merge(config, {
     },
   },
 
+  // output: {
+  //   path: path.resolve(__dirname, 'public'),
+  //   assetModuleFilename: '[name][ext]',
+  //   clean: true,
+  // },
   output: {
     path: path.resolve(__dirname, 'public'),
     assetModuleFilename: '[name][ext]',
